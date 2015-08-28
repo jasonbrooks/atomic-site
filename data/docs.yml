@@ -3,7 +3,7 @@
   Introduction: /docs/introduction
   Quick Start Guide: /docs/quickstart
   Getting Started Guide: /docs/gettingstarted
-  Bare Metal Installation (Fedora): /docs/fedora_atomic_bare_metal_installation
+  Install from ISO: /docs/iso_installation
 - Deploying Containerized Apps:
   Nulecule: /docs/nulecule
   Atomic App: /docs/atomicapp 
