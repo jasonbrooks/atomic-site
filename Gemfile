@@ -96,3 +96,6 @@ gem "feedjira"
 gem "launchy"
 gem "slop"
 gem "chronic"
+
+gem "puma"
+
